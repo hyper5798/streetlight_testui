@@ -1,8 +1,8 @@
 {
   "name": "dlControl",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "private": true,
-  "scripts": {
+  "scripts": {s
     "start": "node app.js"
   },
   "dependencies": {
